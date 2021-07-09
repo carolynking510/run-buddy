@@ -12,3 +12,5 @@ https://carolynking510.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Carolyn 
+
+### ©️2019 Run Buddy, Inc 
